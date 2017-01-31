@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <link href="/style.css" rel="stylesheet">
   <title>Psychic Meme Areas</title>
 </head>
 <body>
   <h1>Psychic Memes</h1>
   <h2>What is a psychic meme?
+  <p>A psychic meme is a meme that predicts what memes will be before it is a meme.</p>
 </body>
 </html>
