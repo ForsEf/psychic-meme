@@ -1,0 +1,15 @@
+h1, h2, p {
+  color:#123123;font-family:Papyrus;
+}
+
+h2 {
+  font-size:24px;
+}
+
+h1 {
+  font-size:100px;
+}
+
+p (
+  font-size:12px;
+}
